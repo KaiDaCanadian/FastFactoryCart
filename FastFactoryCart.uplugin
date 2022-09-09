@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.0",
+	"VersionName": "1.2.0",
 	"FriendlyName": "FastFactoryCart",
 	"Description": "puny vroom",
 	"Category": "Modding",
@@ -14,7 +14,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"SemVersion": "1.1.0",
+	"SemVersion": "1.2.0",
 	"Plugins": [
 		{
 			"Name": "SML",
